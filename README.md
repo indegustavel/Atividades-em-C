@@ -1,1 +1,1 @@
-tao me devendo um sorvete no reuni
+Algumas atividades da matéria Algoritmo e Estrutura de Dados
